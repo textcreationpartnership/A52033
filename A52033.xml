@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The trumpet of the Lord sounded out of Sion to awaken England's inhabitants into a sence of the mercies and judgments of the Lord by Charles Marshall.</title>
+            <author>Marshall, Charles, 1637-1698.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52033</idno>
+            <idno type="STC">Wing M745</idno>
+            <idno type="STC">ESTC R3515</idno>
+            <idno type="EEBO-CITATION">13674151</idno>
+            <idno type="OCLC">ocm 13674151</idno>
+            <idno type="VID">101211</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52033)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101211)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 794:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The trumpet of the Lord sounded out of Sion to awaken England's inhabitants into a sence of the mercies and judgments of the Lord by Charles Marshall.</title>
+                  <author>Marshall, Charles, 1637-1698.</author>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>God --  Mercy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101211:1"/>
+            <!-- PDF PAGE 16 -->
+            <pb facs="tcp:101211:1"/>
+            <!-- PDF PAGE 16 -->
+            <p>THE TRUMPET OF THE LORD SOUNDED OUT OF SION, <hi>TO AWAKEN</hi> England's Inhabitants Into a <hi>SENCE</hi> OF THE Mercies and Judgments OF THE LORD.</p>
+            <p>By <hi>Charles Marſhall.</hi>
+            </p>
+            <p>Printed in the Year 1675.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:101211:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 17 -->
+            <pb n="3" facs="tcp:101211:2"/>
+            <!-- PDF PAGE 17 -->
+            <head>THE TRUMPET OF THE Lord, &amp;c.</head>
+            <p>GIve Ear O you Inhabitants of this Northern Iſland of the <hi>Gentiles,</hi> who ſate in Dark<g ref="char:EOLhyphen"/>neſs, and under the Region of the Shadow of Death, in whom, and amongſt whom is ariſen a Light.</p>
+            <p>God Eternal the Ancient of Dayes, who was from everlaſting and is to everlaſting, hath in theſe latter Ages of the World ſtretched out the Ancient Arm of his great Power to gather thine Inhabitants out of the broad wayes of Deſtruction, into the narrow Way of Life eternal; and in order to the Accompliſhment of this great and glorious Work, he hath cauſed his ſpiritual Trumpet to be ſounded to awaken thine Inhabitants to ſtand up and hear his Determination, which was and is to overturn, lay waſte, confound, and deſtroy the Kingdom of Anti-Chriſt, and to ſet up and eſtabliſh the Kingdom of his Son Chriſt Jeſus, &amp; to tranſlate
+<pb n="4" facs="tcp:101211:3"/>
+               <!-- PDF PAGE 18 -->thouſands and ten thouſands out of the Kingdom of Satan, into the Kingdom of his dear Son.</p>
+            <p>This Work O <hi>England,</hi> God everlaſting hath begun within thy Borders, whoſe Glorious, Bright, Splendorous Day is dawned over thee; magnified be the Name of the mighty God, this Day hath overtook ſome thouſands of thine Inhabitants, through which they have ſeen that grievous dark Night of Apoſtacy, in which they wandered from Mountain unto Hill of lifeleſs Profeſſions, ſeeking the living among the dead, and Food for their immor<g ref="char:EOLhyphen"/>tall Souls in deſolate Places; but found it not un<g ref="char:EOLhyphen"/>til the glorious Lord God of eternal Might cauſed his Day (which is Light) to dawn, through which they have ſeen the Diſpleaſure of the Lord of Hoſts againſt Sin and Iniquity, and all out-ſide Profeſſions of Chriſtianity, which are void and remote from the Natue thereof.</p>
+            <p>But O <hi>England England!</hi> inſtead of prizing this unutterable Loving-Kindneſs of the Lord in viſi<g ref="char:EOLhyphen"/>ting thine Inhabitants with his Day-ſpringing from on high; Multitudes, both Profeſſors and prophane did reject, withſtand and oppoſe the very firſt Breakings forth and Dawnings of this Day of Love, and wickedly and deſpightfully trea<g ref="char:EOLhyphen"/>ted the Lord's Ambaſſadours, that were ſent to publiſh and proclaim the Glad-tidings of Life and Salvation; and both Rulers, Prieſts and People withſtood as much as in them lay, the Lord in his Spiritual Appearance, and put Briars and Thorns (as ſome did in Ages by-paſt) in Battel againſt the
+<pb n="5" facs="tcp:101211:3"/>
+               <!-- PDF PAGE 18 -->Lord; but after he had given them a Day of ten<g ref="char:EOLhyphen"/>der Viſitation, ſtretching out his Hand all the Day long, which was rejected; the Almighty God kindled a Fire in his Wrath, and his Diſpleaſure waxed hot againſt them, and he cauſed his Fire to go through their Briars and Thorns, and con<g ref="char:EOLhyphen"/>ſumed them, in which Day the mighty fell from their Seats into great Contempt, and the abaſing-Hand of the Lord ſignally appeared in the Power of its working, through whoſe Overthrow and a<g ref="char:EOLhyphen"/>baſing, he exalted his Truth over their Power, and renowned it over their Oppoſition, and hath cauſed it to proſper, and his Day to dawn and ap<g ref="char:EOLhyphen"/>pear more and more, through which Light and Underſtanding have ſo appeared, and increaſed, that Thouſands have a Diſcovery what the righte<g ref="char:EOLhyphen"/>ous God requireth of them: And now O Inhabi<g ref="char:EOLhyphen"/>tants of <hi>England</hi> after your ſettlement in this Capa<g ref="char:EOLhyphen"/>city you are now in, how did the Lord ſtrive with you, ye Rulers and People? requiring you to do juſtly, love Mercy, bring forth Juſtice and Judgment, Truth and Righteouſneſs, eaſe the op<g ref="char:EOLhyphen"/>preſſed, judge the Cauſe of the innocent, and in all things bow before the moſt high, who changed Time and Seaſons before your Eyes, pulling down and ſetting up, which was not accompliſhed by any Man or Mens Might, Sword or Spear, that no Men might have whereof to glory; but dread be<g ref="char:EOLhyphen"/>fore his Greatneſs, Almightineſs, Wiſdom and Juſtice.</p>
+            <p>
+               <pb n="6" facs="tcp:101211:4"/>
+               <!-- PDF PAGE 19 -->
+But O ye Rulers, Prieſts and People, how ſoon were ye turned aſide by the Spirit of Error from taking notice of the Goings of the Almighty, or having Regard to the Operation of his Hand? but Joyned Hand in Hand to do wickedly, to oppoſe, gainſay and reſiſt the Counſel of the Lord, which abundantly was declared unto you, but ye reject<g ref="char:EOLhyphen"/>ed it, and with Greedineſs made Haſte to work Evil, and commit Unrighteouſneſs, and to many great Abominations added this, namely, cru<g ref="char:EOLhyphen"/>elly in many Places to perſecute and impriſon an in<g ref="char:EOLhyphen"/>nocent People that feared the Lord, dreading and trembling before him, having a Regard to the Ope<g ref="char:EOLhyphen"/>ration of his overturning Hand and Power; and thoſe your great Evils greatly diſpleaſed the Juſt God, yet in tender Love he aroſe early, and ſent unto you; &amp; many Warnings you Rulers, Prieſts &amp; People had before thoſe dreadful ſignal Judgments, <hi>viz. Peſtilence</hi> and <hi>Fire,</hi> which came on Thouſands, as an armed Man, and as <hi>Travail on a Woman,</hi> wa<g ref="char:EOLhyphen"/>ſting and deſtroying dreadfully the People, Habita<g ref="char:EOLhyphen"/>tions and Treaſures, in which Day the God of Mercy and inexpreſſible Compaſſions, bowed down his Ear to your Sighings, and had a Regard to your Cryes, which were many and great, whilſt thoſe dreadful Stroaks were upon you; and he was en<g ref="char:EOLhyphen"/>treated, and in his Mercy ſtayed the Sword in the Hand of the deſtroying Angel, which was and is ſeen drawn over thee, O City of <hi>London</hi> and Inhabi<g ref="char:EOLhyphen"/>tants of <hi>England:</hi> And the Lord God Almighty anſwered the ardent Cryes of his Prophets and
+<pb n="7" facs="tcp:101211:4"/>
+               <!-- PDF PAGE 19 -->People, which were in Supplication unto him, to give you, O Inhabitants, a Day of Tryal in Mer<g ref="char:EOLhyphen"/>cy, to ſee whether you would amend and turn from the Evil of your Doings, and in the Sence of his Judgments and Mercies, be humbled through all your Families in the Duſt before him: And in his Grace and unſpeakable Mercies, he hath given you a Time and Seaſon ye Rulers, Prieſts and People, and a ſmall Remnant hath taken no<g ref="char:EOLhyphen"/>tice of the Work of the Hand of the Almighty, and bowed before him in the Sence of his Judg<g ref="char:EOLhyphen"/>ments and Mercies, and have turned from the Evil of their Doings unto the Lord, and by them the bleſſed End of the Lord is anſwered; but theſe are but a little Remnant to the many Thouſands of thy Inhabitants: For thy Multitudes, O <hi>En<g ref="char:EOLhyphen"/>gland,</hi> in thy Cities, Towns and Villages, Rulers, Prieſts and People have not had a true Regard, neither to the Judgments nor Mercies of the Lord, but have proceeded from great Evils to worſe, ruſhing into Uncleanneſs, Debauchery and all Ini<g ref="char:EOLhyphen"/>quity, as the Horſe into Battel, and drinking it up as the Ox drinks Water. And now O Inhabi<g ref="char:EOLhyphen"/>tants of <hi>England,</hi> lift up your Eyes, be awakened into a Sence, how in this Day of the Long-Suffer<g ref="char:EOLhyphen"/>ing of the Lord, and Reſpite from dreadful conſu<g ref="char:EOLhyphen"/>ming Judgments, ye have declared your Sins like (if not far exceeding) <hi>Sodom</hi> and <hi>Gomorrah:</hi> The Lord Almighty is greatly offended with you, and his Spirit that hath ſtrove with you long, is exceed<g ref="char:EOLhyphen"/>ingly grieved; the Cryes of your Tranſgreſſions
+<pb n="8" facs="tcp:101211:5"/>
+               <!-- PDF PAGE 20 -->are come before him, and he is comedown, and hath vewed thy Cities, Towns and Villages, O <hi>England,</hi> and behold they are before him like <hi>Sodom,</hi> and many of thy Inhabitants like <hi>Gomorrah,</hi> whom God overthrew, and never repented.</p>
+            <p>And he hath ſaid, <hi>I will now draw near to Judgment, and haſten my Determination, and accompliſh my Purpoſe, that the Earth may be moved at the uttering of my Thunders, and the Inhabitants reel like a Cottage, that the mighty of the Earth may ariſe to meet me in the Wayes of my Judgments; for from the riſing of the Sun to the going down of the ſame ſhall my Name be reveren<g ref="char:EOLhyphen"/>ced, and the Acts of the Arm of my Power renowned.</hi>
+            </p>
+            <p>O <hi>England, England!</hi> Awake, awake out of that Sleep of Death and Deſtruction, which the Deſtroyer of Mankind hath brought Multitudes of thine Inhabitants into, and conſider now thine Eſtate in this the Evening of many of thine Inha<g ref="char:EOLhyphen"/>bitants Day, for the Sun is ſetting over many, and Night coming on apace, wherein no Man can work.</p>
+            <p>I am diſtreſſed for thee, O dear Land of my Nativity in the Senſe of the little Regard ma<g ref="char:EOLhyphen"/>ny of thine Inhabitants have of the Mercies and Judgments of the Lord; but yet be awakened at the certain Sound of the Trumpet of the Lord, to conſider the things appertaining to your everla<g ref="char:EOLhyphen"/>ſting Peace, and to a ſerious Conſideration of the Times and Seaſons that are over you and wherein you are.</p>
+            <p>And I am moved of the eternal holy Lord God to pat you in mind, that it was not long ſince a great Fear and Dread was on many, that the Lord would
+<pb n="9" facs="tcp:101211:5"/>
+               <!-- PDF PAGE 20 -->ſwiftly have brought that grievous and fore Judg<g ref="char:EOLhyphen"/>ment of removing the Plenty of Bread within our Land through the dreadful Seaſons in many Places (a ſore manner of waſting People) through which multitudes of cattel died before your Eyes, which came ſo far as to give ſeveral a taſte of that dread<g ref="char:EOLhyphen"/>ful Judgment of Famine, which threatning brought a Dread upon the Minds of many; but the God of our Mercies, who is full of Compaſſions and Long-ſuffering, that he might try you O Inhabi<g ref="char:EOLhyphen"/>tants of <hi>England,</hi> immediatly and ſignally appeared in great and unexpreſſible Mercy, and inſtead of a dreadfull Famine, cauſed the Earth to bring forth by Hand-fuls ABUNDANTLY.</p>
+            <p>Now O rebellious Nation, ſtiff-necked and hard-hearted People, be wiſe, be inſtructed, lift up your Eyes, behold this Trial of Plenty; for ſo it is, I de<g ref="char:EOLhyphen"/>clare it unto you in the Name of the Lord God of Hoſts, to prove and to try you, whether the dread<g ref="char:EOLhyphen"/>ful Threatnings of Judgment, and the ſpeedy large Extention of his Mercies will move to a ſerious Ex<g ref="char:EOLhyphen"/>amination of your Wayes and Walkings before the Lord; <hi>Then would the Senſe of your great and coutinued Iniquities on the one Hand, and the Senſe of the great Long-Suffering and tender Mercies of the Al<g ref="char:EOLhyphen"/>mighty on the other Hand bar you down and bring you very low, even into the duſt before the Lord through which a repenting Frame of Spirit would come on you.</hi>
+            </p>
+            <p>But now O <hi>England, England,</hi> if neither the Mercies nor Judgments of the Lord, which have been, and are upon thee, will prevail, ſo as to work a Reforma<g ref="char:EOLhyphen"/>tion
+<pb n="10" facs="tcp:101211:6"/>
+               <!-- PDF PAGE 21 -->in thee; then O People hear this Word; <hi>Be in Expectation of a dreadful Day, ſuch as you have not known in this Generation, to come on you; for the Lord God ſtrong and mighty will ſmite through the Land in great Dread and Fury, bringing Terrour and the very Begirdings of Sorrows upon every County therein, and a general Calamity, waſting, conſuming, deſtroying and de<g ref="char:EOLhyphen"/>populating and overturning will go over:</hi> And therefore in the Name of the mighty God, when this Meſſage comes to your Ears, lay aſide all your Inſtruments and Objects of Joy and Mirth, come down in the Duſt before the dreadful God, all both high and low, rich and poor, bond and free male and female, from him that ſits upon the Throne to the Beggar on the Dunghil, and ſpeedily humble your ſelves before the Lord, faſt from Strife and Debate and all Iniquity, then approach and come near, <hi>cry mightily to the Lord God of Sabboths, that he would ſpare you and your Land from the dreadful Spoiler and Waſter;</hi> and covenant with the Lord to walk before him in Righ<g ref="char:EOLhyphen"/>teouſneſs, putting away all your Abominations from before his Eyes, the ſtumbling-Block of your Iniquities, and may be the Lord may be yet entreat<g ref="char:EOLhyphen"/>ed, otherwiſe remember this ſealed Counſel &amp; De<g ref="char:EOLhyphen"/>termination of the moſt high, glorious, dreadful Lord God of Heaven and Earth, <hi>When you have filled up your meaſures, which greatly haſtens and is near, your Judgments ſhall be aſtoniſhing, both unto your ſelves, and unto Nations, in which Day you ſhall know, that as</hi> Iſrael <hi>of old rejected and rebelled againſt the good Spirit of the Lord given them, and againſt the Counſel of the Lord gi<g ref="char:EOLhyphen"/>ven
+<pb n="11" facs="tcp:101211:6"/>
+                  <!-- PDF PAGE 21 -->by his Prophets and Servants, for which a waſting and dreadful conſuming Judgment came on them; ſo have ye: So be inſtructed, bow down and kiſs the Son, leſt his Wrath break forth without Remedy, and thouſands periſh out of the Way; and whileſt ye have a little time (a very ſhort time) prize it, in making the utmoſt Uſe of it, is the breathing Cryes, and travailing in Spirit for you of him who hath been and am often afflicted and bowed in Spirit for you, who am a Servant of the Lord, raiſed up to declare his certain Counſel unto you.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>Tetherton</hi> in the Coun<g ref="char:EOLhyphen"/>ty of <hi>Wilts</hi> 
+                  <date>the 6th Moneth, 1675.</date>
+               </dateline>
+               <signed>Charles Marſhall.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
